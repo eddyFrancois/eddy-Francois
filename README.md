@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Eddy Francois
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning computer science 
-- 💞️ I’m looking to collaborate on software developer engineer 
+- 💞️ I’m looking to collaborate on software developer 
 - 📫 How to reach me eddyfrancois85@gmail.com
 
 <!---
